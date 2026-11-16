@@ -21,7 +21,7 @@ const bigint = z.coerce.bigint()
 const boolean = z.coerce.boolean()
 
 // temos alguns outros types que ainda nao vimos, mas que, ja usei em alguns projetos 
-// (como o crypto e o date (que fazem uma criptografia para seu type, e o date, que gera a data))
+// (como o uuid crypto e o date (que fazem uma criptografia para seu type, e o date, que gera a data))
 
 // e o date pode ser usado no coerce tambem
 
